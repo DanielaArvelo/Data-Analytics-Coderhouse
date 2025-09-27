@@ -28,7 +28,8 @@ Se diseñó un tablero interactivo en Power BI para visualizar resultados clave 
 
 - dataset → Contiene las tablas en formato CSV/Excel (anonimizadas para uso educativo).
 - dashboard.pbix → Archivo de Power BI con el tablero interactivo.
-- Informe_Final.pdf → Documento completo del análisis, hallazgos y conclusiones.
+- Informe_Final.pdf → Documento completo del análisis, hallazgos y conclusiones:
+  - https://drive.google.com/file/d/1Rv6uFbJt-Uq0QdLz4prlm0thKJcQK9Ur/view?usp=drive_link
 
 ## 🚀 Cómo usar el proyecto
 
